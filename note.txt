@@ -1,0 +1,9 @@
+ls
+pwd
+git clone url
+git status (finding a changes file)
+git add * (* = all filename)
+git commit -m "comment"
+git config --global user.name "user name"
+git config --global user.email "user email"
+git push -u origin main (main = branch name)
